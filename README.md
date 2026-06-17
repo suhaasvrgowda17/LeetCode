@@ -1,91 +1,128 @@
-# Arrays
+# LeetCode Solutions
 
-A comprehensive collection of Array problem solutions implemented in Java as part of my Data Structures and Algorithms (DSA) journey.
+A curated collection of my LeetCode solutions implemented in **Java** as part of my journey to master **Data Structures and Algorithms (DSA)**, strengthen problem-solving skills, and prepare for technical interviews.
 
 ## 📖 Overview
 
-Arrays are one of the most fundamental and widely used data structures in computer science. Mastering arrays is essential because many advanced topics such as Strings, Hashing, Sliding Window, Dynamic Programming, and Graphs build upon array concepts.
+This repository serves as a structured archive of LeetCode problems that I solve regularly. It covers a wide range of topics, from fundamental data structures to advanced algorithmic techniques.
 
-This repository contains solutions to Array-based problems from LeetCode, focusing on writing clean, efficient, and optimized code while improving problem-solving skills.
+The primary goal of this repository is not only to solve problems but also to understand patterns, optimize solutions, and build a strong foundation in computer science concepts.
 
 ---
 
 ## 🎯 What You Will Learn
 
-Through these problems, you will learn:
+By exploring this repository, you will gain knowledge and practical experience in:
 
-- Array Traversal Techniques
-- Searching Algorithms
-- Sorting Concepts
-- Two Pointer Technique
-- Sliding Window Technique
-- Prefix Sum and Difference Arrays
-- Hashing with Arrays
-- Binary Search on Arrays
-- Matrix Manipulation
-- Greedy Approaches
-- Kadane's Algorithm
-- Time and Space Complexity Analysis
-- Optimization Strategies
+* Arrays
+* Strings
+* Linked Lists
+* Stacks and Queues
+* Hashing
+* Recursion and Backtracking
+* Binary Search
+* Trees and Binary Search Trees
+* Heaps and Priority Queues
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
+* Bit Manipulation
+* Sliding Window
+* Two Pointers
+* Prefix Sum
+* Trie
+* Union Find (Disjoint Set)
+* Advanced Data Structures and Algorithms
 
 ---
 
 ## ✅ Prerequisites
 
-Before starting with Array problems, it is recommended to have basic knowledge of:
+Before working through these problems, it is helpful to have a basic understanding of:
 
-- Java Fundamentals
-- Variables and Data Types
-- Loops (`for`, `while`)
-- Conditional Statements (`if-else`)
-- Functions/Methods
-- Basic Object-Oriented Programming Concepts
-- Time and Space Complexity (Big O Notation)
-
----
-
-## 🛠 Language Used
-
-- Java
+* Java Programming
+* Variables and Data Types
+* Loops and Conditional Statements
+* Functions and Methods
+* Object-Oriented Programming (OOP)
+* Basic Data Structures
+* Time and Space Complexity Analysis
+* Big O Notation
 
 ---
 
-## 📚 Problem Categories
+## 🛠 Language
 
-The solutions in this folder cover:
-
-- Easy Problems
-- Medium Problems
-- Hard Problems
-
-Common topics include:
-
-- Array Manipulation
-- Searching and Sorting
-- Prefix Sums
-- Sliding Window
-- Two Pointers
-- Binary Search
-- Matrix Problems
-- Hash-Based Techniques
+* Java
 
 ---
 
-## 🎯 Learning Objectives
+## 📂 Repository Structure
 
-- Build a strong foundation in DSA.
-- Develop logical and analytical thinking.
-- Learn multiple approaches to solve the same problem.
-- Improve coding efficiency and optimization skills.
-- Prepare for technical interviews and coding assessments.
-- Maintain a structured record of solved problems.
+```text
+LeetCode
+│
+├── Arrays
+├── Strings
+├── LinkedList
+├── Stack
+├── Queue
+├── BinarySearch
+├── Trees
+├── BST
+├── Heap
+├── Graphs
+├── Greedy
+├── DynamicProgramming
+├── Recursion
+├── Backtracking
+├── BitManipulation
+└── README.md
+```
+
+Each folder contains solutions related to a specific topic along with supporting documentation where applicable.
 
 ---
 
-## 🚀 Goal
+## 🎯 Objectives
 
-To consistently practice Array problems, understand underlying patterns, and strengthen problem-solving abilities required for software engineering interviews and competitive programming.
+* Build strong problem-solving skills.
+* Master Data Structures and Algorithms.
+* Learn multiple approaches to solving problems.
+* Improve coding efficiency and optimization.
+* Prepare for Software Engineering interviews.
+* Develop consistency through daily practice.
+* Track learning progress over time.
 
 ---
 
-*"The journey to mastering Data Structures and Algorithms begins with understanding Arrays."*
+## 📈 Progress
+
+This repository is continuously updated as I solve more problems and explore new concepts.
+
+Current Focus:
+
+* Data Structures
+* Algorithmic Problem Solving
+* Interview Preparation
+* Competitive Programming
+
+---
+
+## 🚀 Why This Repository?
+
+* Organized topic-wise solutions
+* Clean and readable Java implementations
+* Continuous learning and improvement
+* Useful reference for interview preparation
+* Demonstrates consistency and problem-solving ability
+
+---
+
+## 📚 Source
+
+Problems are primarily sourced from LeetCode and solved independently for learning and practice purposes.
+
+---
+
+### Keep Learning. Keep Solving. Keep Growing. 🚀
