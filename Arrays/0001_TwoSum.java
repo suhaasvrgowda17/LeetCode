@@ -1,6 +1,6 @@
 /*
+Probelm : 01. Two Sum
 
-Probelm Name: "Two Sum"
 Logic:
 1. Check every possible pair.
 2. If the pair sum equals target, return their indices.
