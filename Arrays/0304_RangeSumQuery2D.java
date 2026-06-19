@@ -24,7 +24,7 @@ class NumMatrix{
         for(int r=1;r<=rows;r++){
             for(int c=1;c<=cols;c++){
                 prefix[r][c]=matrix[r-1][c-1]
-                             +prefix[r-1][c]
+                             git status+prefix[r-1][c]
                              +prefix[r][c-1]
                              -prefix[r-1][c-1]; // add current value, top and left, subtract repeated part
             }
